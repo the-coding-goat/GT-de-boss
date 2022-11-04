@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GT-de-boss
-- 👀 I’m interested in web dev, game dev
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
